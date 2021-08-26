@@ -73,5 +73,6 @@ public class MouseInteractions {
         element = driver.findElement(By.linkText("Clickable Icon"));
         String link = element.getAttribute("href");
         assertEquals("https://ultimateqa.com/link-success/", link);
+        assertEquals("padding-box", element.getCssValue("background-origin"));
     }
 }

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="3" failures="0" name="FirstTest" time="6.33" errors="0" skipped="0">
+<testsuite tests="3" failures="0" name="FirstTest" time="5.479" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2021.2.1"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -62,7 +62,7 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="FirstTest" name="loginTest" time="2.838"/>
-  <testcase classname="FirstTest" name="orderTest" time="2.546"/>
-  <testcase classname="FirstTest" name="passwordTest" time="0.946"/>
+  <testcase classname="FirstTest" name="loginTest" time="1.974"/>
+  <testcase classname="FirstTest" name="orderTest" time="2.494"/>
+  <testcase classname="FirstTest" name="passwordTest" time="1.011"/>
 </testsuite>
